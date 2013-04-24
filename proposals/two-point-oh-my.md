@@ -15,6 +15,6 @@ Walk this way and we'll explore methodologies and tooling for managing releases 
 
 ## Proposed for
 
- * [DevOpsDays Berlin 2013](http://devopsdays.org/events/2013-berlin/) ***pending***
+ * [DevOpsDays Berlin 2013](http://devopsdays.org/events/2013-berlin/) ***rejected***
  * [Distil 2013](http://distill.engineyard.com/) ***pending***
- * [Atmosphere Conference 2013](https://atmosphere-conference.com/en/) ***pending***
+ * [Atmosphere Conference 2013](https://atmosphere-conference.com/en/) ***accepted***
