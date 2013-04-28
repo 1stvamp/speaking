@@ -15,5 +15,5 @@ This is a *cultural shift* away from other ways of working more than technologic
  * [DevOpsDays London 2013](http://devopsdays.org/events/2013-london/) **rejected**
  * [DevOpsDays Paris 2013](http://devopsdays.org/events/2013-paris/) **rejected**
  * [DevOpsDays Berlin 2013](http://devopsdays.org/events/2013-berlin/) ***accepted***
- * [Distil 2013](http://distill.engineyard.com/) ***pending***
+ * [Distil 2013](http://distill.engineyard.com/) ***rejected***
  * [Atmosphere Conference 2013](https://atmosphere-conference.com/en/) ***rejected***
