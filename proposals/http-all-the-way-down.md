@@ -15,5 +15,5 @@ It's Web Powered Turtles All The Way Down.
 
  * [PyCon UK 2012](http://pyconuk.org/) **accepted** *for previous version of talk*
  * [Devs Love Bacon 2013](devslovebacon.com/conferences/bacon-2013/) **rejected**
- * [Distil 2013](http://distill.engineyard.com/) ***pending***
+ * [Distil 2013](http://distill.engineyard.com/) ***on waiting list***
  * [Atmosphere Conference 2013](https://atmosphere-conference.com/en/) ***accepted***
