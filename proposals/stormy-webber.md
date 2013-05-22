@@ -10,4 +10,4 @@ Bonus bonus: Tornado 3 and Python 3.4 style futures for less confusing async.
 
 ## Proposed for
 
- * [PyCon Ireland](http://python.ie/pycon/2013/) **pending**
+ * [PyCon Ireland](http://python.ie/pycon/2013/) **accepted**
