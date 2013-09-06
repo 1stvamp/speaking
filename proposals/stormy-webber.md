@@ -10,4 +10,5 @@ Bonus bonus: Tornado 3 and Python 3.4 style futures for less confusing async.
 
 ## Proposed for
 
+ * [West Yorkshire Python User Group](https://groups.google.com/forum/#!topic/python-yorks-humber/2BTxjJBuI54) **by invitation**
  * [PyCon Ireland](http://python.ie/pycon/2013/) **accepted**
