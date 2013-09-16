@@ -19,3 +19,4 @@ This is a *cultural shift* away from other ways of working more than technologic
  * [Distil 2013](http://distill.engineyard.com/) ***passed***
  * [Atmosphere Conference 2013](https://atmosphere-conference.com/en/) ***rejected***
  * [DIBI 2013](http://dibiconference.com/programme/2013-10-08) ***accepted***
+ * [PHP UK 2014](http://phpconference.co.uk/speakers/) **pending**
