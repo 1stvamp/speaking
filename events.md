@@ -1,0 +1,12 @@
+[BrumCon7](http://www.brum2600.net/brumcon7/)
+[BrumCon9](http://www.brum2600.net/brumcon9/)
+[PyConUK 2012](http://2012.pyconuk.net/Schedule/)
+[Atmosphere 2013](https://atmosphere-conference.com/en/speakers/)
+[DevOpsDays Berlin 2013](http://devopsdays.org/events/2013-berlin/program/)
+[DIBI 2013](http://dibiconference.com/speakers)
+[PyConIE 2013](http://python.ie/pycon/2013/talks/stormy_webber_tornado_for_everyone/)
+[Django Weekend](https://djangoweekend.org/event/tornado-and-friends/) - [Tornado & Friends Workshop](http://tornadoandfriends.org/)
+[PHPNE 2014](http://conference.phpne.org.uk/) (unconference talk) - [How to do that JuJu you wanna do ..hoo](http://1stvamp.github.io/phpne-2014-juju-talk/)
+[WyPy](http://wypy.org.uk/) (usergroup) - [Stormy Webber](http://1stvamp.github.io/stormy-webber/) / *HTTP All The Way Down (rehash)*
+[Python Sheffield](https://plus.google.com/events/cok7n7m590038mjnnlb4mqf0srk) (usergroup) - [Gevent All The Things](http://1stvamp.github.io/gevent-talk/) / [Build pipelines, Python, and You](http://1stvamp.github.io/pysheff-build-talk/)
+[leedsDevops](http://www.leedsdevops.org.uk/post/80607473177/meetup-tuesday-15th-april-2014-at-the-adelphi-leeds) (usergroup) - [Where Goombas Dare - Build pipelines, Release Engineering, and You!](http://1stvamp.github.io/build-eng-talk)
