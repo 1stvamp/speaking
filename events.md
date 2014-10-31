@@ -11,3 +11,5 @@
 * [Python Sheffield](https://plus.google.com/events/cok7n7m590038mjnnlb4mqf0srk) (usergroup) - [Gevent All The Things](http://1stvamp.github.io/gevent-talk/) / [Build pipelines, Python, and You](http://1stvamp.github.io/pysheff-build-talk/)
 * [leedsDevops](http://www.leedsdevops.org.uk/post/80607473177/meetup-tuesday-15th-april-2014-at-the-adelphi-leeds) (usergroup) - [Where Goombas Dare - Build pipelines, Release Engineering, and You!](http://1stvamp.github.io/build-eng-talk)
 * [LondonCD](http://www.meetup.com/London-Continuous-Delivery/events/171060012/) (usergroup) - [Where Goombas Dare - Build pipelines, Release Engineering, and You!](http://1stvamp.github.io/build-eng-talk)
+* [PyConUK 2014](http://2014.pyconuk.net/Schedule) - [Stormy Webber](http://1stvamp.github.io/stormy-webber/)
+* [PyConPL 2014](http://pl.pycon.org/2014/en/agenda) - [How to deploy everything with Juju, twice](http://1stvamp.github.io/juju-talk/), [Tornado & Friends Workshop](http://tornadoandfriends.org/)
