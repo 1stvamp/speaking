@@ -17,4 +17,4 @@ Follow along with me as I attempt to explain the most appealing features, simila
 
 ## Proposed for
 
- * [PyConUK 2015](http://pyconuk.org/) **pending**
+ * [PyConUK 2015](http://www.pyconuk.org/talks/elephant-taming-for-snake-lovers/) **accepted**
