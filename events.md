@@ -13,3 +13,5 @@
 * [LondonCD](http://www.meetup.com/London-Continuous-Delivery/events/171060012/) (usergroup) - [Where Goombas Dare - Build pipelines, Release Engineering, and You!](http://1stvamp.github.io/build-eng-talk)
 * [PyConUK 2014](http://2014.pyconuk.net/Schedule) - [Stormy Webber](http://1stvamp.github.io/stormy-webber/)
 * [PyConPL 2014](http://pl.pycon.org/2014/en/agenda) - [How to deploy everything with Juju, twice](http://1stvamp.github.io/juju-talk/), [Tornado & Friends Workshop](http://tornadoandfriends.org/)
+* [WyPy](http://wypy.org.uk/2015-09) (usergroup) - [Elephant taming for snake lovers](https://1stvamp.github.io/elephant-taming-talk/#/)
+* [leedsDevops](https://www.meetup.com/LeedsDevops/events/226512370/) - [Verifying deployments and testing infrastructure with conn-check](https://1stvamp.github.io/conn-check-talk/)
