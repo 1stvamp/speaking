@@ -12,7 +12,7 @@ But what if we focus not just on the bottom line and KPIs, but people themselves
 With some care and thought for the frustrations and cognitive issues that devs, ops and business folk encounter regularly you'll not only make everyone happier, but in turn improve business performance.
 
 Expect an overview and case-studies of:
- * Common operations tools, but in the Python community, and across software engineering
+ * Common operations tools, and across software engineering
  * Infrastructure patterns for deployments
  * On call rotation and postmortems
 
