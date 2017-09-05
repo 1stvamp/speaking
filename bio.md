@@ -1,5 +1,7 @@
 # Wes Mason
 
+![Wes Mason](files/monav.jpg)
+
 ## Short bio
 Wes is a polyglot developer with nearly two decades of experience programming large scale networked applications and release engineering.
 
