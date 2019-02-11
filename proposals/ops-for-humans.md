@@ -20,5 +20,5 @@ Expect an overview and case-studies of:
 
  * [LondonCD](https://www.meetup.com/London-Continuous-Delivery/events/240796830/) **accepted**
  * [IDinLondon](https://www.eventbrite.co.uk/e/idinlondon-presents-an-evening-of-devops-tickets-36479020733) **accepted**
- * [PyConUK 2017](http://2017.pyconuk.org/) **accepted**
- * [PyConUK 2018](https://2018.hq.pyconuk.org/) **submitted**
+ * [PyConUK 2017](http://2017.pyconuk.org/) **accepted** - **cancelled due to holiday commitment**
+ * [PyConUK 2018](https://pyvideo.org/pycon-uk-2018/ops-for-humans.html) **accepted**
