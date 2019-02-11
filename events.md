@@ -16,3 +16,4 @@
 * [WyPy](http://wypy.org.uk/2015-09) (usergroup) - [Elephant taming for snake lovers](https://1stvamp.github.io/elephant-taming-talk/#/)
 * [leedsDevops](https://www.meetup.com/LeedsDevops/events/226512370/) - [Verifying deployments and testing infrastructure with conn-check](https://1stvamp.github.io/conn-check-talk/)
 * [LondonCD](https://vimeo.com/236008866) - [Ops for Humans](https://1stvamp.github.io/ops-for-humans/)
+* [PyConUK 2018](https://2018.hq.pyconuk.org/schedule/item/E723/) - [Ops for Humans](https://1stvamp.github.io/ops-for-humans/) - [video](https://pyvideo.org/pycon-uk-2018/ops-for-humans.html)
